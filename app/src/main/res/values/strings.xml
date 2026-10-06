@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quản Lý Hồ Sơ Sinh Viên</string>
+    <string name="title_main">THÔNG TIN HỒ SƠ SINH VIÊN</string>
+    <string name="title_edit">CHỈNH SỬA HỒ SƠ SINH VIÊN</string>
+    <string name="label_name">Họ và tên</string>
+    <string name="label_mssv">MSSV</string>
+    <string name="label_class">Lớp</string>
+    <string name="label_gpa">GPA</string>
+    <string name="btn_edit_profile">1. Chỉnh sửa hồ sơ</string>
+    <string name="btn_change_avatar">2. Đổi ảnh đại diện</string>
+    <string name="btn_call">3. Gọi điện</string>
+    <string name="btn_request_camera">4. Xin quyền Camera</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_cancel">Hủy</string>
+
+    <!-- Strings for compatibility -->
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+</resources>
